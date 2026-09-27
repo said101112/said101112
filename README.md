@@ -2,38 +2,14 @@
 
 # NICHAN SAID
 
-<img src="./assets/avatar.png" width="150" alt="NICHAN SAID" style="border-radius: 50%;" />
+### Full-Stack Developer · DevOps Engineering · Cloud-Native Architectures
 
-<br><br>
-
-### <b>Développeur Full Stack | Ingénierie DevOps | Architectures Cloud-Native</b>
-<sub><b>Full-Stack Developer · DevOps Engineering · Cloud-Native Architectures</b></sub>
-
-<br><br>
-
-<!-- PFE Announcement Badge -->
-<a href="mailto:saidnichan6@gmail.com">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20RECHERCHE%20PFE-Projet%20de%20Fin%20d'%C3%89tudes%20(2027)-2563EB?style=for-the-badge&logoColor=white" alt="Recherche PFE" />
-</a>
-
-<br><br>
-
-### 🎯 <b>À la recherche d'un Projet de Fin d'Études (PFE)</b>
-<sub><b>Actively Seeking End-of-Studies Internship (PFE) · 2027</b></sub><br>
-<sub>Élève Ingénieur en 5ème année (Génie Informatique) à l'<b>ENSA Tanger</b> &nbsp;·&nbsp; Certifié <b>Java SE 17 (OCP)</b></sub>
-
-<br>
-
-<!-- Contact Bar directly matching Resume Header -->
-<p align="center">
-  📍 <b>Salé, Maroc</b> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  📞 <a href="tel:+212713668431"><b>+212 713 668 431</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  ✉️ <a href="mailto:saidnichan6@gmail.com"><b>saidnichan6@gmail.com</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  💼 <a href="https://www.linkedin.com/in/nichan-said-940810313/"><b>LinkedIn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-  🌐 <a href="https://said-nichan-three.vercel.app/"><b>Portfolio</b></a>
+<p>
+  🎯 <b>À la recherche d'un Projet de Fin d'Études (PFE)</b> &nbsp;·&nbsp; <i>Graduation Internship (2027)</i><br>
+  <sub>Élève Ingénieur en 5ème année (Génie Informatique) à l'<b>ENSA Tanger</b> &nbsp;·&nbsp; Certifié <b>Java SE 17 (OCP)</b></sub>
 </p>
 
-<!-- Quick Action Badges -->
+<!-- Contact Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/nichan-said-940810313/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -48,16 +24,20 @@
   </a>
   &nbsp;
   <a href="https://wa.me/212713668431">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-%2B212_713_668_431-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
   <a href="./assets/cv/Said_Nichan_CV_EN.pdf">
-    <img src="https://img.shields.io/badge/Resume-English_PDF-374151?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV EN" />
+    <img src="https://img.shields.io/badge/CV-English_PDF-374151?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV EN" />
   </a>
   &nbsp;
   <a href="./assets/cv/Said_Nichan_CV_FR.pdf">
     <img src="https://img.shields.io/badge/CV-Fran%C3%A7ais_PDF-374151?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV FR" />
   </a>
+</p>
+
+<p align="center">
+  📍 <b>Salé, Maroc</b> &nbsp;&nbsp;|&nbsp;&nbsp; 📞 <a href="tel:+212713668431"><b>+212 713 668 431</b></a>
 </p>
 
 <!-- Typing animation -->
