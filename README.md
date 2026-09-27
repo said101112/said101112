@@ -1,317 +1,224 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Nichan%20Said&fontSize=48&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI%20Developer&descAlignY=58&descAlign=50" width="100%" alt="Nichan Said Header"/>
+# Saïd Nichan
 
-  <p align="center">
-    <b>Curiosity & Clean Code • State Engineering Student @ ENSA Tangier</b>
-  </p>
+<p align="center">
+  <b>Software Engineer · Backend & Distributed Systems · Cloud · Data · AI Integration</b><br>
+  <sub>Final-year Computer Engineering Student at ENSA Tangier · Class of 2027</sub>
+</p>
 
-  <p align="center">
-    <a href="mailto:saidnichan6@gmail.com"><img src="https://img.shields.io/badge/Email-saidnichan6%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.linkedin.com/in/nichan-said-940810313/"><img src="https://img.shields.io/badge/LinkedIn-Nichan%20Said-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/said101112"><img src="https://img.shields.io/badge/GitHub-said101112-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="./assets/cv/Said_Nichan_CV_EN.pdf"><img src="https://img.shields.io/badge/Resume%20(EN)-Download%20PDF-2ba673?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume EN"/></a>
-    <a href="./assets/cv/Said_Nichan_CV_FR.pdf"><img src="https://img.shields.io/badge/CV%20(FR)-T%C3%A9l%C3%A9charger-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV FR"/></a>
-  </p>
+<!-- Subtle Terminal-style Typing Animation -->
+<p align="center">
+  <a href="https://said-nichan-three.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1200&color=2563EB&center=true&vCenter=true&width=580&lines=Building+scalable+backend+architectures+%26+microservices;Designing+fault-tolerant+APIs+and+distributed+systems;Integrating+agentic+AI+workflows+(LangGraph+%26+RAG);Engineering+cloud-native+platforms+with+Docker+%26+K8s" alt="Typing SVG" />
+  </a>
+</p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=said101112&style=flat-square&color=007acc&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-OPEN%20FOR%20PFE%20%26%20OPPORTUNITIES-brightgreen?style=flat-square" alt="Status" />
-  </p>
+<p align="center">
+  <a href="https://said-nichan-three.vercel.app/"><b>Portfolio</b></a> •
+  <a href="https://www.linkedin.com/in/nichan-said-940810313/"><b>LinkedIn</b></a> •
+  <a href="mailto:saidnichan6@gmail.com"><b>Email</b></a> •
+  <a href="./assets/cv/Said_Nichan_CV_EN.pdf"><b>Resume (PDF)</b></a>
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### Quick Navigation
+
+<p align="center">
+  <a href="#about-me">About</a> &nbsp;•&nbsp;
+  <a href="#technical-stack">Tech Stack</a> &nbsp;•&nbsp;
+  <a href="#featured-projects">Featured Projects</a> &nbsp;•&nbsp;
+  <a href="#experience--education">Experience & Education</a> &nbsp;•&nbsp;
+  <a href="#github-activity">GitHub Activity</a> &nbsp;•&nbsp;
+  <a href="#contact">Contact</a>
+</p>
+
+---
+
+## About Me
+
+I am a final-year **Computer Engineering student at ENSA Tangier** (National School of Applied Sciences), graduating in **June 2027**. My core focus centers on **Backend Engineering, Cloud-Native Systems, and applied AI Integration**.
+
+* **Architecture & Systems:** I design and implement reliable RESTful APIs, modular microservices, and data models with a strong adherence to Clean Architecture, OOP principles, and security standards (OAuth2/OIDC).
+* **AI Integration:** Beyond classical software engineering, I integrate intelligent capabilities into real applications using **Retrieval-Augmented Generation (RAG)**, **vector databases (pgvector)**, and **agentic multi-step orchestration (LangGraph)**.
+* **Objective:** Currently seeking an **End-of-Studies Internship (PFE) / Software Engineering opportunities** where I can contribute to high-impact production systems and engineering teams.
+
+---
+
+## Technical Stack
+
+A focused breakdown of technologies I build with on a daily basis:
 
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <p>
-        I'm <b>NICHAN SAID</b>, a final-year <b>Computer Engineering student at ENSA Tangier</b> (National School of Applied Sciences), currently seeking an <b>End-of-Studies Internship (PFE)</b> and full-time software engineering roles.
-      </p>
-      <p>
-        I have a strong passion for designing scalable, resilient architectures and crafting sleek user interfaces. With rigorous training in software engineering, system design, and hands-on experience spanning <b>Spring Boot, Angular, React, .NET, Python, and AI/ML pipelines</b>, I transform complex requirements into elegant, high-impact digital products.
-      </p>
-      <ul>
-        <li>🎯 <b>Current Focus:</b> AI-Agent workflows (LangGraph / RAG), Cloud-Native architectures, and microservices.</li>
-        <li>🎓 <b>Education:</b> State Engineering Degree in Computer Science @ <b>ENSA Tangier</b> (2024 – 2027) | Preparatory Classes (2022 – 2024).</li>
-        <li>⚡ <b>Philosophy:</b> <i>"Curiosity & Clean Code: bridging robust backend with intuitive design through meticulous attention to detail."</i></li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="./assets/avatar.png" width="220px" alt="Nichan Said"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-Here is a curated selection of engineering projects featured in my portfolio, spanning **AI systems, Cloud-Native DevOps, Mobile, and Full-Stack Web Applications**:
-
-### 1. 🤖 NextStep — AI-Powered Job Application Lifecycle Platform
-> **Code:** `SW.002` | **Type:** Web Application & Multi-Agent AI System  
-> **Links:** [GitHub Repository](https://github.com/said101112/NextStep)
-
-NextStep centralizes and automates the candidate recruitment journey: job scraping, semantic offer analysis, auto-tailored CV and email generation, real-time recruiter reply classification, and AI interview prep.
-
-<p align="center">
-  <img src="./assets/projects/nextstep.png" alt="NextStep Platform" width="95%"/>
-</p>
-
-- **Frontend:** Angular 19, TypeScript, TailwindCSS, SignalR
-- **Backend & Services:** ASP.NET Core, FastAPI, LangGraph (Multi-Agent System), Hangfire
-- **Infrastructure & Data:** PostgreSQL, Redis, Keycloak (IAM/OAuth2), Docker Compose
-- **Key Highlights:** Autonomous LLM agents for candidate-offer matching, background task orchestration, real-time notifications via SignalR.
-
----
-
-### 2. 📱 finTruck — Offline-First Personal Finance Tracker
-> **Code:** `SW.001` | **Type:** Cross-Platform Mobile Application  
-> **Links:** [GitHub Repository](https://github.com/said101112/fintruck)
-
-A privacy-centric, local-first personal finance application that allows users to manage budgets, categorize transactions, and visualize financial growth without external server dependencies.
-
-<p align="center">
-  <img src="./assets/projects/fintruck.png" alt="finTruck Mobile App" width="85%"/>
-</p>
-
-- **Tech Stack:** Flutter, Dart, SQLite, MVC Architecture, `fl_chart`, Local Notifications
-- **Key Highlights:** 100% offline data integrity with SQLite, dynamic analytics charts, custom expense categories, light/dark themes, scheduled daily reminders.
-
----
-
-### 3. 🗺️ Roadmap Builder — Visual Drag-and-Drop Learning Platform + AI Agent (BMO)
-> **Code:** `SW.003` | **Type:** Interactive Web Application  
-> **Links:** [Live Demo](https://road-map-builder.vercel.app) | [GitHub Repository](https://github.com/said101112/RoadMap-Builder)
-
-A visual canvas that enables users to design, share, and track personalized learning paths and workflows. Supercharged by **BMO**, an embedded AI agent that generates complete structured curriculums from prompt descriptions.
-
-<p align="center">
-  <img src="./assets/projects/roadmap-builder.png" alt="Roadmap Builder" width="95%"/>
-</p>
-
-- **Tech Stack:** React, React Flow, TypeScript, Node.js, Express.js, PostgreSQL, TypeORM, Docker, Cypress
-- **Key Highlights:** Interactive drag-and-drop node graph, AI prompt-to-roadmap synthesis, JSON graph import/export portability (n8n compatible), custom step milestone tracker.
-
----
-
-### 4. 🎬 Vimo — Cloud-Native Video Streaming Platform & Observability Stack
-> **Code:** `SW.007` | **Type:** Cloud-Native Distributed System  
-> **Links:** [GitHub Repository](https://github.com/said101112/VIMO)
-
-An enterprise-inspired video streaming engine deployed on a 4-VM architecture orchestrated with Ansible, featuring MinIO S3 chunked storage and end-to-end telemetry.
-
-<p align="center">
-  <img src="./assets/projects/vimo.png" alt="Vimo Streaming Platform" width="95%"/>
-</p>
-
-- **Tech Stack:** React (Vite), Node.js, Express.js, MongoDB, MinIO (S3 Object Storage), Nginx
-- **DevOps & Observability:** Ansible, Docker & Docker Compose, Prometheus, Grafana, Node Exporter, MongoDB Exporter, Vagrant
-- **Key Highlights:** HTTP range chunked media streaming, custom HTML5 media player, full p50/p95/p99 latency dashboards, automated multi-VM provisioning.
-
----
-
-### 5. 🚦 Traffic Sign Recognition & Localization — Moroccan NARSA Context
-> **Code:** `SW.008` | **Type:** Computer Vision & Deep Learning  
-> **Client:** ENSA Tangier / NARSA | **Links:** [GitHub Repository](https://github.com/said101112/traffic-sign-recognition)
-
-An end-to-end Computer Vision system engineered for Moroccan road environments, recognizing 43 classes of traffic signs and detecting bounding boxes in real-time.
-
-<p align="center">
-  <img src="./assets/projects/traffic-sign.png" alt="Traffic Sign Recognition" width="95%"/>
-</p>
-
-- **Tech Stack:** Python, PyTorch (TrafficSignNet CNN), OpenCV, Flask, Scikit-Learn, CUDA GPU
-- **Key Highlights:** **98.80% test accuracy** and **98.28% macro F1** score with custom CNN, hybrid HSV multi-range color filtering + morphological localization, live webcam and image upload inference.
-
----
-
-### 6. 🏭 Predictive Maintenance BI — Industry 4.0 IoT Decision Platform
-> **Code:** `SW.009` | **Type:** Data Engineering & Business Intelligence  
-> **Links:** [GitHub Repository](https://github.com/said101112)
-
-A comprehensive data engineering pipeline processing 10,000 IoT sensor records (temperatures, torque, tool wear) to diagnose machine failures and empower proactive industrial decisions.
-
-<p align="center">
-  <img src="./assets/projects/bi-predictive-maintenance.png" alt="Predictive Maintenance BI" width="95%"/>
-</p>
-
-- **Tech Stack:** Power BI, PostgreSQL, Pentaho Data Integration (PDI Spoon), Kimball Star Schema, SQL, IoT Sensor Analytics
-- **Key Highlights:** Dimensional Kimball star schema, fault-tolerant asynchronous ETL with synchronization barriers against race conditions, executive Power BI dashboard pinpointing root-cause failure patterns.
-
----
-
-### 7. 🎓 EVALY — Continuous Soft Skills Evaluation Platform
-> **Code:** `SW.004` | **Type:** Web Application & QA Automation  
-> **Client:** ENSA Tangier | **Links:** [GitHub Repository](https://github.com/said101112/Evaly)
-
-A multi-actor academic assessment platform facilitating self, peer, and professor evaluations to track behavioral competencies throughout students' academic journey.
-
-<p align="center">
-  <img src="./assets/projects/evaly.png" alt="Evaly Platform" width="95%"/>
-</p>
-
-- **Tech Stack:** Vue.js, Express.js, PostgreSQL, Sequelize, Cypress, Vitest, Docker, k6
-- **Key Highlights:** Multi-tier evaluation matrix, automated E2E testing pipelines with Cypress, scalability & stress testing with k6 integrated into CI/CD.
-
----
-
-### 8. 💬 FlowCom — Real-Time Chat & Collaboration Application
-> **Code:** `SW.005` | **Type:** Real-Time Web Application  
-> **Links:** [GitHub Repository](https://github.com/said101112/ChatAppMessage)
-
-A WhatsApp-inspired instant communication platform supporting live chat rooms, instant notifications, and user presence tracking.
-
-<p align="center">
-  <img src="./assets/projects/flowcom.png" alt="FlowCom Chat" width="95%"/>
-</p>
-
-- **Tech Stack:** Angular, Express.js, MongoDB, Socket.io, JWT Authentication
-- **Key Highlights:** WebSocket bi-directional event stream, persistent room management, dynamic messaging state, and responsive desktop/mobile layout.
-
----
-
-### 9. 🛍️ ShopVite — Full-Stack E-Commerce Platform
-> **Code:** `SW.006` | **Type:** E-Commerce Web Application  
-> **Links:** [GitHub Repository](https://github.com/said101112/Ecommerce2)
-
-A modern e-commerce web application focused on speed, modular state management, and friction-free checkout.
-
-<p align="center">
-  <img src="./assets/projects/shopvite.png" alt="ShopVite E-Commerce" width="95%"/>
-</p>
-
-- **Tech Stack:** React.js, Tailwind CSS, Express.js, PostgreSQL, RESTful APIs
-- **Key Highlights:** Optimized database queries, dynamic filtering and cart persistence, sleek responsive design.
-
----
-
-## 💼 Work Experience
-
-- 🏢 **FOCUS NEXT COMPUTING** | *Full-Stack Developer Intern* (Casablanca, Morocco — Hybrid)  
-  **July 2026 – August 2026**
-  - Architected and developed a multi-tenant digital healthcare platform compliant with the **HL7 FHIR R4** standard.
-  - Implemented microservices using **Spring Boot**, **React**, **PostgreSQL**, and **Keycloak**.
-  - Implemented granular authorization policies (**RBAC / ABAC**) using **Open Policy Agent (OPA)**.
-
-- 🏢 **Smart Automation Tech.** | *Full-Stack Intern* (Tangier, Morocco — Remote)  
-  **July 2025 – September 2025**
-  - Modernized and refactored a legacy commercial marketplace into a high-performance **Angular** frontend.
-  - Automated operational workflows and data pipelines using **n8n**.
-  - Built and deployed a **RAG-based AI assistant** for internal knowledge base querying.
-
----
-
-## 🛠️ Technical Skills
-
-<table align="center" width="100%">
-  <tr>
-    <td width="20%"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java%2017-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-    </td>
+    <td width="22%"><b>Languages</b></td>
+    <td><code>Java</code> · <code>C#</code> · <code>Python</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>SQL</code> · <code>C++</code></td>
   </tr>
   <tr>
-    <td><b>Frameworks & Libs</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
+    <td><b>Backend</b></td>
+    <td><code>Spring Boot</code> · <code>.NET Core / ASP.NET</code> · <code>FastAPI</code> · <code>Express.js</code> · <code>REST APIs</code> · <code>Microservices</code></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><code>Angular (19)</code> · <code>React</code> · <code>Next.js</code> · <code>Vue.js</code> · <code>TailwindCSS</code></td>
+  </tr>
+  <tr>
+    <td><b>Databases & Storage</b></td>
+    <td><code>PostgreSQL</code> · <code>Redis</code> · <code>pgvector</code> · <code>MongoDB</code> · <code>MinIO (S3)</code></td>
   </tr>
   <tr>
     <td><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
-      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" />
-      <img src="https://img.shields.io/badge/n8n-FF6584?style=flat-square&logo=n8n&logoColor=white" />
-    </td>
+    <td><code>Docker</code> · <code>Docker Compose</code> · <code>GitHub Actions (CI/CD)</code> · <code>Kubernetes</code> · <code>AWS</code> · <code>Ansible</code> · <code>Linux</code></td>
   </tr>
   <tr>
-    <td><b>Data & AI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-      <img src="https://img.shields.io/badge/Pentaho%20PDI-005B94?style=flat-square&logo=hitachi&logoColor=white" />
-    </td>
+    <td><b>Security & Auth</b></td>
+    <td><code>Keycloak (IAM)</code> · <code>OAuth2 / OIDC</code> · <code>JWT</code> · <code>Open Policy Agent (OPA)</code> · <code>RBAC / ABAC</code></td>
   </tr>
   <tr>
-    <td><b>Testing & QA</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
-      <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" />
-    </td>
+    <td><b>AI & Automation</b></td>
+    <td><code>LangGraph (Agentic Workflows)</code> · <code>RAG Systems</code> · <code>OpenAI API</code> · <code>Vector Search</code> · <code>n8n</code></td>
+  </tr>
+  <tr>
+    <td><b>Testing & Quality</b></td>
+    <td><code>JUnit</code> · <code>Cypress (E2E)</code> · <code>Vitest</code> · <code>Jest</code> · <code>k6 (Load Testing)</code></td>
   </tr>
 </table>
 
 ---
 
-## 📜 Certifications
+## Featured Projects
 
-- 🏆 **Agile Project Management** — *Google* (2026)
-- 🧠 **Machine Learning Operations (MLOps)** — *DeepLearning.AI* (2026)
-- ☕ **Java SE 17 Developer** — *Oracle* (2026)
+An overview of select systems I have architected and engineered. Detailed breakdowns, architecture schemas, and live previews are available on my [portfolio](https://said-nichan-three.vercel.app/).
+
+<table>
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3>🚀 NextStep — AI Career Platform</h3>
+      <p>
+        AI-powered career assistant platform that analyzes job postings against candidate profiles, calculates ATS compatibility scores, dynamically adapts CVs/cover emails, and orchestrates recruitment workflows.
+      </p>
+      <p>
+        <b>Role:</b> Lead Backend & AI Agent Architecture<br>
+        <b>Key Elements:</b> Multi-agent orchestration with LangGraph, asynchronous pipeline with Hangfire, real-time status updates via SignalR, OAuth2 auth with Keycloak.
+      </p>
+      <p>
+        <code>Angular 19</code> <code>ASP.NET Core</code> <code>FastAPI</code> <code>LangGraph</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Redis</code> <code>Keycloak</code> <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://github.com/said101112/NextStep"><b>View Repository →</b></a> &nbsp;|&nbsp;
+        <a href="https://said-nichan-three.vercel.app/projects/nextstep"><b>Case Study (Portfolio) →</b></a>
+      </p>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3>🏥 Smart Clinic Platform</h3>
+      <p>
+        FHIR-native digital healthcare platform built for multi-tenant patient management, medical record interoperability, clinical tracking, and strict privacy control across hospital departments.
+      </p>
+      <p>
+        <b>Role:</b> Backend & Security Architecture (Internship @ FOCUS NEXT)<br>
+        <b>Key Elements:</b> HL7 FHIR R4 resource mapping, fine-grained access control with Open Policy Agent (OPA), Keycloak multi-realm SSO, microservices topology.
+      </p>
+      <p>
+        <code>Spring Boot</code> <code>React</code> <code>PostgreSQL</code> <code>HAPI FHIR</code> <code>Keycloak</code> <code>OPA</code> <code>Microservices</code> <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://github.com/said101112"><b>View on GitHub →</b></a> &nbsp;|&nbsp;
+        <a href="https://said-nichan-three.vercel.app/#experience"><b>Case Study (Portfolio) →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h3>🗺️ Roadmap Builder</h3>
+      <p>
+        Interactive visual canvas application for architecting custom learning paths, curricula, and engineering milestones with node-graph customization and automated generation.
+      </p>
+      <p>
+        <b>Role:</b> Full-Stack & AI Agent Integration<br>
+        <b>Key Elements:</b> Drag-and-drop graph rendering via React Flow, built-in AI agent (BMO) that translates natural language prompts into complete roadmap node hierarchies, JSON export/import.
+      </p>
+      <p>
+        <code>React</code> <code>React Flow</code> <code>Node.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>TypeORM</code> <code>RAG</code> <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://github.com/said101112/RoadMap-Builder"><b>View Repository →</b></a> &nbsp;|&nbsp;
+        <a href="https://said-nichan-three.vercel.app/projects/roadmap-builder"><b>Case Study (Portfolio) →</b></a>
+      </p>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h3>🎯 Evaly — Soft Skills Evaluation</h3>
+      <p>
+        Multi-actor continuous evaluation platform enabling 360° behavioral tracking through self, peer, and instructor assessments, verified through an enterprise automated QA pipeline.
+      </p>
+      <p>
+        <b>Role:</b> QA Strategy Lead & Full-Stack Developer<br>
+        <b>Key Elements:</b> End-to-end automated testing with Cypress, unit/integration test suites with Vitest, load and stress test automation using k6 within CI/CD.
+      </p>
+      <p>
+        <code>Vue.js</code> <code>Express.js</code> <code>PostgreSQL</code> <code>Sequelize</code> <code>Cypress</code> <code>Vitest</code> <code>k6</code> <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://github.com/said101112/Evaly"><b>View Repository →</b></a> &nbsp;|&nbsp;
+        <a href="https://said-nichan-three.vercel.app/projects/evaly"><b>Case Study (Portfolio) →</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+> 💡 *Additional projects covering cloud-native video streaming (Vimo), computer vision sign recognition (PyTorch/OpenCV), and industrial IoT predictive maintenance (Power BI/Pentaho) are showcased on my [portfolio](https://said-nichan-three.vercel.app/).*
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## Experience & Education
+
+### Professional Experience
+* **Full-Stack Developer Intern** — **FOCUS NEXT COMPUTING** *(Casablanca, Morocco · July 2026 – Aug 2026)*  
+  Engineered core backend services and security layers for a multi-tenant digital health platform. Integrated the **HL7 FHIR R4** standard, implemented microservices in **Spring Boot** and **React**, and established attribute-based access control (**ABAC/RBAC**) using **Keycloak** and **Open Policy Agent (OPA)**.
+
+* **Full-Stack Intern** — **Smart Automation Tech.** *(Tangier, Morocco · July 2025 – Sep 2025)*  
+  Refactored legacy marketplace components into a modern **Angular** architecture. Automated workflow events using **n8n** and integrated an internal **RAG-based AI assistant** for company knowledge retrieval.
+
+### Education
+* **State Engineering Degree in Computer Science** — **ENSA Tangier** *(2024 – 2027)*  
+  Specialization in Software Architecture, Distributed Systems, Algorithms, and Cloud Engineering.
+* **Integrated Preparatory Classes (CPGE)** — **ENSA Tangier** *(2022 – 2024)*  
+  Intensive foundation in Mathematics, Physics, and foundational Computer Science.
+
+---
+
+## GitHub Activity
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=said101112&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Said's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=said101112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saïd's GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=said101112&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=said101112&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=said101112&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📬 Let's Connect!
+## Contact
 
-I am always interested in discussing new technologies, innovative projects, or internship/job opportunities.
+Feel free to connect regarding software engineering opportunities, technical collaborations, or open-source projects:
 
-- 📧 **Email:** [saidnichan6@gmail.com](mailto:saidnichan6@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/nichan-said-940810313](https://www.linkedin.com/in/nichan-said-940810313/)
-- 🌐 **GitHub:** [@said101112](https://github.com/said101112)
-- 📄 **Curriculum Vitae:** [Download English CV](./assets/cv/Said_Nichan_CV_EN.pdf) | [Télécharger CV Français](./assets/cv/Said_Nichan_CV_FR.pdf)
+* 🌐 **Live Portfolio:** [said-nichan-three.vercel.app](https://said-nichan-three.vercel.app/)
+* 💼 **LinkedIn:** [linkedin.com/in/nichan-said-940810313](https://www.linkedin.com/in/nichan-said-940810313/)
+* 📧 **Email:** [saidnichan6@gmail.com](mailto:saidnichan6@gmail.com)
+* 📄 **Curriculum Vitae:** [Download PDF (English)](./assets/cv/Said_Nichan_CV_EN.pdf) · [Télécharger (Français)](./assets/cv/Said_Nichan_CV_FR.pdf)
 
 <div align="center">
-  <sub>Designed with precision & curiosity • © Nichan Said</sub>
+  <sub>© 2026 Saïd Nichan · Built with clean code & engineering precision</sub>
 </div>
