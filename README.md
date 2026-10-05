@@ -5,8 +5,8 @@
 ### Full-Stack Developer · DevOps Engineering · Cloud-Native Architectures
 
 <p>
-  🎯 <b>À la recherche d'un Projet de Fin d'Études (PFE)</b> &nbsp;·&nbsp; <i>Graduation Internship (2027)</i><br>
-  <sub>Élève Ingénieur en 5ème année (Génie Informatique) à l'<b>ENSA Tanger</b> &nbsp;·&nbsp; Certifié <b>Java SE 17 (OCP)</b></sub>
+  🎯 <b>Seeking a Final Year Internship (PFE)</b> &nbsp;·&nbsp; <i>Graduation: June 2027</i><br>
+  <sub>Final-Year Software Engineering Student at <b>ENSA Tangier</b> &nbsp;·&nbsp; Certified <b>Java SE 17 (OCP)</b></sub>
 </p>
 
 <!-- Contact Badges -->
@@ -32,12 +32,12 @@
   </a>
   &nbsp;
   <a href="./assets/cv/Said_Nichan_CV_FR.pdf">
-    <img src="https://img.shields.io/badge/CV-Fran%C3%A7ais_PDF-374151?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV FR" />
+    <img src="https://img.shields.io/badge/CV-French_PDF-374151?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV FR" />
   </a>
 </p>
 
 <p align="center">
-  📍 <b>Salé, Maroc</b> &nbsp;&nbsp;|&nbsp;&nbsp; 📞 <a href="tel:+212713668431"><b>+212 713 668 431</b></a>
+  📍 <b>Salé / Tangier, Morocco (Nationwide Mobility)</b> &nbsp;&nbsp;|&nbsp;&nbsp; 📞 <a href="tel:+212713668431"><b>+212 713 668 431</b></a>
 </p>
 
 <!-- Typing animation -->
@@ -63,13 +63,13 @@
 
 ## ◾ About Me
 
-> 🎯 **Recherche PFE :** Élève ingénieur en 5ème année (dernière année) à l'**ENSA Tanger**, certifié **Java SE 17 (OCP)**. Développeur Full Stack spécialisé dans l'intégration de solutions d'Intelligence Artificielle (RAG, architectures multi-agents) et l'application des principes DevOps (CI/CD, conteneurisation). Capable de concevoir et déployer des architectures cloud-native automatisées et supervisées en respectant les standards de l'industrie (Clean Architecture, Clean Code).
+> 🎯 **PFE Objective:** Final-year Software Engineering student (5th year) at **ENSA Tangier**, certified **Java SE 17 Developer (OCP)**, actively seeking an end-of-studies internship (**PFE**). Full-Stack Developer specialized in integrating Artificial Intelligence solutions (RAG, multi-agent architectures) and adopting DevOps principles (CI/CD, containerization). Proven ability to design, automate, and monitor resilient cloud-native architectures aligned with strict industry standards (Clean Architecture, SOLID, Clean Code).
 
-I build **scalable, high-performance backend systems** and full-stack applications with a strong foundation in technologies like **Spring Boot**, **Angular**, and **.NET**. Beyond classical software engineering, I integrate intelligent capabilities into production software using **RAG pipelines**, **vector search (pgvector)**, and **agentic multi-step orchestration (LangGraph)**.
+I engineer **scalable, high-performance backend systems** and modern full-stack platforms with strong foundations in **Spring Boot**, **.NET**, **Angular**, and **React**. Beyond classical software engineering, I embed autonomous AI capabilities into production environments using **RAG pipelines**, **vector databases (pgvector)**, and **multi-agent orchestration (LangGraph)**.
 
-I focus on writing clean, maintainable code and designing architectures that deliver **real engineering impact** — from RESTful APIs and microservices to cloud-native distributed platforms.
+I believe in building reliable software engineered for long-term maintainability — from modular microservices to observable, containerized cloud infrastructure.
 
-> *"Curiosity & Clean Code — bridging robust backend with intuitive design through meticulous attention to detail."*
+> *"Curiosity & Clean Code — bridging robust backend architectures with intuitive user experiences through meticulous engineering."*
 
 ---
 
@@ -77,45 +77,45 @@ I focus on writing clean, maintainable code and designing architectures that del
 
 <div align="center">
 
-#### Languages
+#### Programming Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,python,ts,js,cpp,php&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,cs,python,ts,js,cpp,c,php&theme=dark" alt="Languages" />
   </a>
 </p>
 
 #### Backend & Frameworks
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,express,nodejs&theme=dark" alt="Backend" />
+    <img src="https://skillicons.dev/icons?i=spring,dotnet,fastapi,express,nodejs,laravel&theme=dark" alt="Backend" />
   </a>
 </p>
 
-#### Frontend
+#### Frontend & UI
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,nextjs,vue,tailwind&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=angular,react,vue,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
   </a>
 </p>
 
-#### Databases & Storage
+#### Databases & Persistence
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,mysql&theme=dark" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase&theme=dark" alt="Databases" />
   </a>
 </p>
 
-#### Cloud, DevOps & Infrastructure
+#### Cloud, DevOps & CI/CD
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,ansible,linux,nginx,prometheus,grafana&theme=dark" alt="Cloud & DevOps" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,ansible,githubactions,gitlab,linux,nginx,prometheus,grafana&theme=dark" alt="Cloud & DevOps" />
   </a>
 </p>
 
-#### Testing & Quality
+#### Testing, QA & Code Quality
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cypress,jest,vitest&theme=dark" alt="Testing" />
+    <img src="https://skillicons.dev/icons?i=vitest,cypress,jest&theme=dark" alt="Testing & QA" />
   </a>
 </p>
 
@@ -123,16 +123,40 @@ I focus on writing clean, maintainable code and designing architectures that del
 
 <table align="center">
   <tr>
-    <td><b>Security & Auth</b></td>
-    <td><code>Keycloak (IAM)</code> · <code>OAuth2 / OIDC</code> · <code>JWT</code> · <code>Open Policy Agent (OPA)</code> · <code>RBAC / ABAC</code></td>
+    <td><b>Languages</b></td>
+    <td><code>Java (OCP Certified)</code> · <code>TypeScript / JavaScript</code> · <code>Python</code> · <code>C#</code> · <code>SQL</code> · <code>C / C++</code> · <code>PHP</code></td>
+  </tr>
+  <tr>
+    <td><b>Backend & Architecture</b></td>
+    <td><code>Spring Boot</code> · <code>.NET (ASP.NET Core)</code> · <code>FastAPI</code> · <code>Node.js / Express</code> · <code>Laravel</code> · <code>Hexagonal Architecture</code> · <code>SOLID</code> · <code>Microservices</code></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><code>Angular (19)</code> · <code>React.js</code> · <code>Vue.js</code> · <code>HTML5 / CSS3</code> · <code>Tailwind CSS</code></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><code>PostgreSQL</code> · <code>MySQL</code> · <code>MongoDB</code> · <code>Oracle DB</code> · <code>Supabase</code> · <code>Firebase</code> · <code>pgvector</code> · <code>Redis</code></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Observability</b></td>
+    <td><code>Docker</code> · <code>AWS</code> · <code>CI/CD (GitHub Actions, GitLab CI)</code> · <code>Ansible</code> · <code>Terraform</code> · <code>Linux</code> · <code>SonarQube</code> · <code>Prometheus</code> · <code>Grafana</code></td>
   </tr>
   <tr>
     <td><b>AI & Automation</b></td>
-    <td><code>LangGraph (Agentic Workflows)</code> · <code>RAG Systems</code> · <code>OpenAI API</code> · <code>pgvector</code> · <code>n8n</code></td>
+    <td><code>LangGraph (Agentic Workflows)</code> · <code>LangChain</code> · <code>RAG Architectures</code> · <code>OpenAI API</code> · <code>n8n</code></td>
   </tr>
   <tr>
-    <td><b>Architecture</b></td>
-    <td><code>Microservices</code> · <code>Clean Architecture</code> · <code>REST APIs</code> · <code>Event-Driven</code> · <code>Agile / Scrum</code></td>
+    <td><b>Security & Auth</b></td>
+    <td><code>Keycloak (IAM)</code> · <code>OAuth2 / OIDC</code> · <code>Open Policy Agent (OPA)</code> · <code>RBAC / ABAC</code> · <code>JWT</code></td>
+  </tr>
+  <tr>
+    <td><b>Testing & QA</b></td>
+    <td><code>Vitest</code> · <code>Cypress</code> · <code>Jest</code> · <code>TDD / SDD</code> · <code>k6 (Performance Testing)</code></td>
+  </tr>
+  <tr>
+    <td><b>Management & Languages</b></td>
+    <td><code>Jira</code> · <code>Agile / Scrum</code> &nbsp;|&nbsp; <b>Languages:</b> <code>Arabic (Native)</code> · <code>French (Fluent)</code> · <code>English (Fluent)</code></td>
   </tr>
 </table>
 
@@ -140,43 +164,43 @@ I focus on writing clean, maintainable code and designing architectures that del
 
 ## ◾ Featured Projects
 
-Detailed case studies, architecture diagrams, and gallery screenshots are on my **[Portfolio →](https://said-nichan-three.vercel.app/)**
+Detailed case studies, architecture diagrams, and live demos are available on my **[Portfolio →](https://said-nichan-three.vercel.app/)**
 
 <!-- ROW 1 -->
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 NextStep — AI Career Platform
+### 🚀 NextStep — AI Career Assistance Platform
 
 <a href="https://said-nichan-three.vercel.app/projects/nextstep">
   <img src="./assets/projects/nextstep.png" width="100%" alt="NextStep Platform" />
 </a>
 
-AI-powered career assistant that analyzes job offers, scores ATS compatibility, auto-generates tailored CVs & cover emails, and orchestrates multi-step recruitment workflows with autonomous agents.
+AI-powered career platform providing profile/job matching across 100+ offers and generating ATS-optimized resumes. Features a LangGraph multi-agent pipeline automating targeted email outreach with a 70% time saving. Deployed on AWS via Docker and CI/CD with Prometheus/Grafana monitoring and SonarQube audit.
 
 **Role:** Lead Backend & AI Architecture
 
-`Angular 19` `ASP.NET Core` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `Redis` `Keycloak` `SignalR` `Docker`
+`Angular 19` `.NET 10` `FastAPI` `LangGraph` `PostgreSQL` `pgvector` `Docker` `AWS` `Prometheus` `SonarQube`
 
 [**GitHub →**](https://github.com/said101112/NextStep) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/nextstep)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Smart Clinic Platform
+### 🗺️ Roadmap Builder + AI Agent (BMO)
 
-<a href="https://said-nichan-three.vercel.app/#experience">
-  <img src="./assets/projects/vimo.png" width="100%" alt="Smart Clinic Platform" />
+<a href="https://said-nichan-three.vercel.app/projects/roadmap-builder">
+  <img src="./assets/projects/roadmap-builder.png" width="100%" alt="Roadmap Builder" />
 </a>
 
-FHIR-native digital healthcare platform for multi-tenant patient management, medical record interoperability, and strict privacy enforcement across hospital departments.
+Interactive curriculum design platform generating dynamic learning paths with 50+ nodes. Powered by **BMO**, an integrated AI assistant that models and visually renders skill graphs. Engineered with SOLID backend design, automated CI/CD releases, and Agile iteration.
 
-**Role:** Backend & Security Architecture (Internship)
+**Role:** Lead Backend & AI Integration
 
-`Spring Boot` `React` `PostgreSQL` `HAPI FHIR R4` `Keycloak` `OPA` `Microservices` `Docker`
+`React` `Express.js` `PostgreSQL` `TypeORM` `Docker` `CI/CD` `SOLID` `Agile`
 
-[**GitHub →**](https://github.com/said101112) · [**Case Study →**](https://said-nichan-three.vercel.app/#experience)
+[**GitHub →**](https://github.com/said101112/RoadMap-Builder) · [**Live Demo →**](https://road-map-builder.vercel.app) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/roadmap-builder)
 
 </td>
 </tr>
@@ -187,36 +211,36 @@ FHIR-native digital healthcare platform for multi-tenant patient management, med
 <tr>
 <td width="50%" valign="top">
 
-### 🗺️ Roadmap Builder + AI Agent (BMO)
-
-<a href="https://said-nichan-three.vercel.app/projects/roadmap-builder">
-  <img src="./assets/projects/roadmap-builder.png" width="100%" alt="Roadmap Builder" />
-</a>
-
-Visual drag-and-drop canvas for designing learning paths and curricula. Powered by **BMO**, an embedded AI agent that generates complete structured roadmaps from natural language prompts.
-
-**Role:** Full-Stack & AI Integration
-
-`React` `React Flow` `Node.js` `TypeScript` `PostgreSQL` `TypeORM` `RAG` `Docker` `Cypress`
-
-[**GitHub →**](https://github.com/said101112/RoadMap-Builder) · [**Live Demo →**](https://road-map-builder.vercel.app) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/roadmap-builder)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 Evaly — Soft Skills Evaluation
+### 🎯 Evaly — Soft Skills Evaluation Platform
 
 <a href="https://said-nichan-three.vercel.app/projects/evaly">
   <img src="./assets/projects/evaly.png" width="100%" alt="Evaly Platform" />
 </a>
 
-Multi-actor continuous evaluation platform enabling 360° behavioral tracking through self, peer, and instructor assessments. Enterprise-grade automated QA pipeline.
+Continuous evaluation web application for soft skills tracking featuring self-assessment and score visualization. Supports multi-role workflows with dedicated workspaces for Students, Instructors, Professionals, and Admins. Protected by a comprehensive automated testing suite (Vitest + Cypress).
 
-**Role:** QA Strategy Lead & Full-Stack Developer
+**Role:** QA & Testing Lead / Full-Stack Developer
 
-`Vue.js` `Express.js` `PostgreSQL` `Sequelize` `Cypress` `Vitest` `k6` `Docker`
+`Vue.js` `Express.js` `PostgreSQL` `Vitest` `Cypress` `Docker`
 
 [**GitHub →**](https://github.com/said101112/Evaly) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/evaly)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 Vimo — Cloud-Native Video Streaming
+
+<a href="https://said-nichan-three.vercel.app/projects/vimo">
+  <img src="./assets/projects/vimo.png" width="100%" alt="Vimo Streaming Platform" />
+</a>
+
+Enterprise-grade video streaming engine deployed on a 4-VM architecture orchestrated with Ansible. MinIO S3 chunked storage, HTTP range streaming, and full observability stack with Prometheus and Grafana.
+
+**Role:** Full-Stack & DevOps
+
+`React (Vite)` `Node.js` `Express` `MongoDB` `MinIO (S3)` `Docker` `Ansible` `Prometheus` `Grafana` `Nginx`
+
+[**GitHub →**](https://github.com/said101112/VIMO) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/vimo)
 
 </td>
 </tr>
@@ -227,21 +251,6 @@ Multi-actor continuous evaluation platform enabling 360° behavioral tracking th
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Vimo — Cloud-Native Video Streaming
-
-<a href="https://said-nichan-three.vercel.app/projects/vimo">
-  <img src="./assets/projects/vimo.png" width="100%" alt="Vimo Streaming Platform" />
-</a>
-
-Enterprise-grade video streaming engine deployed on a 4-VM architecture orchestrated with Ansible. MinIO S3 chunked storage, HTTP range streaming, and full observability stack.
-
-`React (Vite)` `Node.js` `Express` `MongoDB` `MinIO (S3)` `Docker` `Ansible` `Prometheus` `Grafana` `Nginx`
-
-[**GitHub →**](https://github.com/said101112/VIMO) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/vimo)
-
-</td>
-<td width="50%" valign="top">
-
 ### 🚦 Traffic Sign Recognition — NARSA
 
 <a href="https://said-nichan-three.vercel.app/projects/traffic-sign-recognition">
@@ -250,17 +259,13 @@ Enterprise-grade video streaming engine deployed on a 4-VM architecture orchestr
 
 End-to-end Computer Vision system for Moroccan road sign recognition. Custom CNN achieving **98.80% accuracy** across 43 classes with real-time webcam inference and HSV localization.
 
-`Python` `PyTorch (TrafficSignNet)` `OpenCV` `Flask` `Scikit-Learn` `CUDA GPU`
+**Role:** Machine Learning Engineer
+
+`Python` `PyTorch` `OpenCV` `Flask` `Scikit-Learn` `CUDA GPU`
 
 [**GitHub →**](https://github.com/said101112/traffic-sign-recognition) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/traffic-sign-recognition)
 
 </td>
-</tr>
-</table>
-
-<!-- ROW 4 -->
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏭 Predictive Maintenance BI — Industry 4.0
@@ -271,11 +276,19 @@ End-to-end Computer Vision system for Moroccan road sign recognition. Custom CNN
 
 Data engineering pipeline processing 10K IoT sensor records to diagnose machine failures. Kimball star schema, fault-tolerant ETL, and executive Power BI dashboards.
 
+**Role:** Data Engineer & BI Developer
+
 `Power BI` `PostgreSQL` `Pentaho PDI (Spoon)` `Kimball Star Schema` `SQL`
 
 [**GitHub →**](https://github.com/said101112) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/predictive-maintenance-bi)
 
 </td>
+</tr>
+</table>
+
+<!-- ROW 4 -->
+<table>
+<tr>
 <td width="50%" valign="top">
 
 ### 💬 FlowCom — Real-Time Chat
@@ -284,11 +297,30 @@ Data engineering pipeline processing 10K IoT sensor records to diagnose machine 
   <img src="./assets/projects/flowcom.png" width="100%" alt="FlowCom Chat" />
 </a>
 
-WhatsApp-inspired real-time communication platform with WebSocket bi-directional messaging, room management, and live presence tracking.
+Real-time instant messaging platform with WebSocket bi-directional communication, channels & private rooms, and live user presence tracking.
+
+**Role:** Full-Stack Developer
 
 `Angular` `Express.js` `MongoDB` `Socket.io` `JWT`
 
 [**GitHub →**](https://github.com/said101112/ChatAppMessage) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/flowcom)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ ShopVite — E-Commerce Platform
+
+<a href="https://said-nichan-three.vercel.app/projects/shopvite">
+  <img src="./assets/projects/shopvite.png" width="100%" alt="ShopVite E-Commerce" />
+</a>
+
+Full-stack modern e-commerce application built for performance, modular state management, product catalogs, and frictionless checkout workflows.
+
+**Role:** Full-Stack Developer
+
+`React.js` `Tailwind CSS` `Express.js` `PostgreSQL` `REST APIs`
+
+[**GitHub →**](https://github.com/said101112/Ecommerce2) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/shopvite)
 
 </td>
 </tr>
@@ -299,33 +331,22 @@ WhatsApp-inspired real-time communication platform with WebSocket bi-directional
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ ShopVite — E-Commerce Platform
-
-<a href="https://said-nichan-three.vercel.app/projects/shopvite">
-  <img src="./assets/projects/shopvite.png" width="100%" alt="ShopVite E-Commerce" />
-</a>
-
-Modern full-stack e-commerce application focused on speed, modular state management, and friction-free checkout experience.
-
-`React.js` `Tailwind CSS` `Express.js` `PostgreSQL` `REST APIs`
-
-[**GitHub →**](https://github.com/said101112/Ecommerce2) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/shopvite)
-
-</td>
-<td width="50%" valign="top">
-
 ### 📱 FinTruck — Personal Finance Tracker
 
 <a href="https://said-nichan-three.vercel.app/projects/fintruck">
   <img src="./assets/projects/fintruck.png" width="100%" alt="FinTruck Mobile App" />
 </a>
 
-Privacy-centric, offline-first personal finance mobile app. Local SQLite persistence, dynamic analytics charts, category management, and light/dark themes.
+Privacy-centric, offline-first personal finance mobile application. Built with local SQLite persistence, dynamic analytics charts, and expense category management.
+
+**Role:** Mobile Developer
 
 `Flutter` `Dart` `SQLite` `MVC` `fl_chart` `Local Notifications`
 
 [**GitHub →**](https://github.com/said101112/fintruck) · [**Case Study →**](https://said-nichan-three.vercel.app/projects/fintruck)
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -334,23 +355,39 @@ Privacy-centric, offline-first personal finance mobile app. Local SQLite persist
 
 ## ◾ Experience & Education
 
-**Full-Stack Developer Intern** — **FOCUS NEXT COMPUTING** · *Casablanca · Jul – Aug 2026*  
-Multi-tenant digital health platform on HL7 FHIR R4. Microservices with Spring Boot & React. RBAC/ABAC authorization via Keycloak + Open Policy Agent (OPA).
+### 💼 Professional Experience
 
-**Full-Stack Intern** — **Smart Automation Tech.** · *Tangier · Jul – Sep 2025*  
-Legacy marketplace → modern Angular frontend. Workflow automation with n8n. Built and deployed a RAG-based AI knowledge assistant.
+#### **Full-Stack Developer Intern** — **FOCUS NEXT COMPUTING**  
+*Casablanca, Morocco · Jul 2026 – Aug 2026*  
+- Developed a multi-tenant digital health platform compliant with the **HL7 FHIR R4** standard.
+- Designed and built a microservices architecture using **Spring Boot**, **React**, **PostgreSQL**, and **Keycloak**.
+- Implemented fine-grained **RBAC / ABAC** authorization policies using **Open Policy Agent (OPA)** and integrated FHIR healthcare resources.
+
+#### **Full-Stack Developer Intern** — **Smart Automation Technologie**  
+*Tangier, Morocco · Jul 2025 – Aug 2025*  
+- Contributed to upgrading and revamping an enterprise web marketplace using **Angular**.
+- Developed an AI-powered conversational chatbot leveraging a **RAG (Retrieval-Augmented Generation)** approach to automate customer support.
+- Built end-to-end workflow automations using **n8n**, significantly streamlining business processes.
 
 ---
 
-**State Engineering Degree · Computer Science** — ENSA Tangier *(2024 – 2027)*  
-**Integrated Preparatory Classes (CPGE)** — ENSA Tangier *(2022 – 2024)*
+### 🎓 Education
+
+#### **State Engineering Degree in Computer Science** — **ENSA Tangier** *(National School of Applied Sciences)*  
+*Tangier, Morocco · 2024 – Expected Graduation: June 2027*  
+- 5th (final) year engineering cycle specialized in Software Engineering, Cloud-Native Architectures, and Applied AI.
+
+#### **Integrated Preparatory Classes (CPGE / Cycle Préparatoire)** — **ENSA Tangier**  
+*Tangier, Morocco · 2022 – 2024*  
+- Intensive curriculum in advanced Mathematics, Physics, and fundamental Computer Science.
 
 ---
 
 ## ◾ Certifications
 
-- 🏆 **Oracle Certified Professional : Java SE 17 Developer** *(Issued Feb 2026)*
-- 📜 **Agile Project Management — Google** *(Coursera, Issued Jan 2026)*
+- 🏆 **Oracle Certified Professional : Java SE 17 Developer (OCP)** *(Issued Feb 12, 2026)*
+- 📜 **Agile Project Management — Google** *(Coursera, Issued Jan 12, 2026)*
+- ☁️ **AWS Knowledge : Cloud Essentials — Training Badge** *(Issued Oct 4, 2026)*
 
 ---
 
@@ -373,7 +410,7 @@ Legacy marketplace → modern Angular frontend. Workflow automation with n8n. Bu
 
 <div align="center">
 
-📍 **Salé / Tanger, Maroc** &nbsp;&nbsp;|&nbsp;&nbsp; 📞 **[+212 713 668 431](tel:+212713668431)** &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ **[saidnichan6@gmail.com](mailto:saidnichan6@gmail.com)**
+📍 **Salé / Tangier, Morocco** &nbsp;&nbsp;|&nbsp;&nbsp; 📞 **[+212 713 668 431](tel:+212713668431)** &nbsp;&nbsp;|&nbsp;&nbsp; ✉️ **[saidnichan6@gmail.com](mailto:saidnichan6@gmail.com)**
 
 <br>
 
@@ -395,7 +432,7 @@ Legacy marketplace → modern Angular frontend. Workflow automation with n8n. Bu
 
 <br><br>
 
-📄 **Curriculum Vitae:** [Download English PDF](./assets/cv/Said_Nichan_CV_EN.pdf) · [Télécharger Français PDF](./assets/cv/Said_Nichan_CV_FR.pdf)
+📄 **Curriculum Vitae:** [Download English PDF](./assets/cv/Said_Nichan_CV_EN.pdf) · [Download French PDF](./assets/cv/Said_Nichan_CV_FR.pdf)
 
 <br>
 
